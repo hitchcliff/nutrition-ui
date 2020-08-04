@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nutrition-ui/static/css/main.96269ef1.chunk.css",
+    "main.js": "/nutrition-ui/static/js/main.588949d3.chunk.js",
+    "main.js.map": "/nutrition-ui/static/js/main.588949d3.chunk.js.map",
+    "runtime-main.js": "/nutrition-ui/static/js/runtime-main.8031d2cc.js",
+    "runtime-main.js.map": "/nutrition-ui/static/js/runtime-main.8031d2cc.js.map",
+    "static/js/2.9b27a9f7.chunk.js": "/nutrition-ui/static/js/2.9b27a9f7.chunk.js",
+    "static/js/2.9b27a9f7.chunk.js.map": "/nutrition-ui/static/js/2.9b27a9f7.chunk.js.map",
+    "index.html": "/nutrition-ui/index.html",
+    "precache-manifest.5331bdc9b1f332f0a5b80f14a8970346.js": "/nutrition-ui/precache-manifest.5331bdc9b1f332f0a5b80f14a8970346.js",
+    "service-worker.js": "/nutrition-ui/service-worker.js",
+    "static/css/main.96269ef1.chunk.css.map": "/nutrition-ui/static/css/main.96269ef1.chunk.css.map",
+    "static/js/2.9b27a9f7.chunk.js.LICENSE.txt": "/nutrition-ui/static/js/2.9b27a9f7.chunk.js.LICENSE.txt",
+    "static/media/food.png": "/nutrition-ui/static/media/food.5e2c8384.png",
+    "static/media/leaves1.png": "/nutrition-ui/static/media/leaves1.07e058f5.png",
+    "static/media/leaves2.png": "/nutrition-ui/static/media/leaves2.09728f61.png",
+    "static/media/leaves3.png": "/nutrition-ui/static/media/leaves3.c3d248ab.png",
+    "static/media/leaves4.png": "/nutrition-ui/static/media/leaves4.74e2dc47.png",
+    "static/media/logo.svg": "/nutrition-ui/static/media/logo.93e72582.svg",
+    "static/media/message.svg": "/nutrition-ui/static/media/message.4c4d13cc.svg",
+    "static/media/play.svg": "/nutrition-ui/static/media/play.f5a9ec8e.svg",
+    "static/media/truck.svg": "/nutrition-ui/static/media/truck.c81f7174.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8031d2cc.js",
+    "static/js/2.9b27a9f7.chunk.js",
+    "static/css/main.96269ef1.chunk.css",
+    "static/js/main.588949d3.chunk.js"
+  ]
+}
